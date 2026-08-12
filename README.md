@@ -79,8 +79,7 @@ Output (probability, binary classification)
 │   ├── data.py                 # synthetic XOR-pattern data generation
 │   ├── model.py                 # MLP definition (2-hidden-layer classifier)
 │   └── train.py                 # training loop + accuracy tracking
-├── requirements.txt
-└── LICENSE
+└── requirements.txt
 ```
 
 ## Engineering Standards
