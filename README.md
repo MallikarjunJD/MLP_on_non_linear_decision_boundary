@@ -1,6 +1,6 @@
 # MLP on a Non-Linear Decision Boundary — PyTorch
 
-**Step 2 of 4** in a series building toward Convolutional Neural Networks. Step 1
+**Step 2 of 3** in a series building toward Convolutional Neural Networks. Step 1
 built an MLP from scratch to learn a linear function; this step keeps the same
 mechanics and deliberately swaps in a target that is **not linearly separable**,
 to test — and visually prove — why hidden layers and non-linear activations
